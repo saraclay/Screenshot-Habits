@@ -1,5 +1,5 @@
 # Screenshot Habit Survey results
-Recently, I created <a href="https://parser.typeform.com/to/ox3Qix">a survey that would collect data and qualitative responses that would help to better understand the screenshot habits of smartphone users</a>. As the results show below, screenshots - like email - are something many people use, but it's a system that is a little broken. Instead of keeping this fascinating data to myself, I wanted to share with anyone else interested in fixing the minor issues that come with screenshots.
+Recently, I created <a href="https://parser.typeform.com/to/ox3Qix" target="_blank">a survey that would collect data and qualitative responses that would help to better understand the screenshot habits of smartphone users</a>. As the results show below, screenshots - like email - are something many people use, but it's a system that is a little broken. Instead of keeping this fascinating data to myself, I wanted to share with anyone else interested in fixing the minor issues that come with screenshots.
 
 --
 
@@ -107,4 +107,4 @@ When asked what they thought were drawbacks of screenshots, responses included..
 * "I never delete them, they clog my memory on my phone"
 * "Sometimes forgetting why you screenshot it in the first place."
 
-If you would like to learn more about where this idea came from, feel free to email me at hi@saraclayton.co or submit a PR!
+*If you would like to learn more about where this idea came from, feel free to email me at hi@saraclayton.co or submit a PR!*
