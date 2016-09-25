@@ -106,5 +106,7 @@ When asked what they thought were drawbacks of screenshots, responses included..
 * "A lot of the time, they look pretty sloppy (but that's more from an aesthetics perspective). Also, if you screenshot an article to send, the receiver misses out on context."
 * "I never delete them, they clog my memory on my phone"
 * "Sometimes forgetting why you screenshot it in the first place."
+
 --
+
 *If you would like to learn more about where this idea came from, feel free to email me at hi@saraclayton.co or submit a PR!*
